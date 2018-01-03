@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{56E18F4A-A2B4-426D-A947-583ACB5DC70B}</ProjectGuid>
+    <ProjectGuid>{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}</ProjectGuid>
     <RootNamespace>fibonaccicstrings</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
     <ProjectName>sexy_chart</ProjectName>

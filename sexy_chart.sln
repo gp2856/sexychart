@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sexy_chart", "sexy_chart\fibonacci_cstrings.vcxproj", "{56E18F4A-A2B4-426D-A947-583ACB5DC70B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sexy_chart", "sexy_chart\sexy_chart.vcxproj", "{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Debug|x64.ActiveCfg = Debug|x64
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Debug|x64.Build.0 = Debug|x64
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Debug|x86.ActiveCfg = Debug|Win32
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Debug|x86.Build.0 = Debug|Win32
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Release|x64.ActiveCfg = Release|x64
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Release|x64.Build.0 = Release|x64
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Release|x86.ActiveCfg = Release|Win32
-		{56E18F4A-A2B4-426D-A947-583ACB5DC70B}.Release|x86.Build.0 = Release|Win32
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Debug|x64.ActiveCfg = Debug|x64
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Debug|x64.Build.0 = Debug|x64
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Debug|x86.Build.0 = Debug|Win32
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Release|x64.ActiveCfg = Release|x64
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Release|x64.Build.0 = Release|x64
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Release|x86.ActiveCfg = Release|Win32
+		{9E744611-EE9D-4A38-8BE5-79BFFAF4BFA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
