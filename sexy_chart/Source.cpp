@@ -191,6 +191,7 @@ int main()
 	bool quit = false;
 	row db[50];
 	row *row = db;
+	
 	while (!quit)
 	{
 		
